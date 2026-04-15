@@ -1,45 +1,40 @@
-# CYBER DASH 🎮
+# CYBER DASH
 
-Cyberpunk-themed 2D top-down survival game built with Unity (URP) for mobile.
+Cyberpunk-themed 2D top-down survival game built with Unity (URP), targeted at mobile platforms. Currently in active development.
 
-## 🎯 Status
+## Overview
 
-🚧 In active development — Unity project files coming soon. Built with AI-assisted tools (Claude, Cursor).
+Originally prototyped as an HTML5 Canvas project, CYBER DASH has been ported to Unity 2D with URP for mobile release. The game focuses on fast-paced movement, varied combat encounters, and arcade-style progression.
 
-## ✨ Features
+## Features
 
-- Dash-based movement and fluid character control
+- Dash-based movement system with fluid character control
 
-- 6 enemy types with distinct AI behaviors
+- Six distinct enemy types with unique behaviors
 
-- 4-boss progression system
+- Four-boss progression system across game phases
 
-- Power-ups, chip currency, and combo system
+- Power-ups, chip currency, and a combo system
 
-- Phase progression system
+- Game feel polish: post-processing bloom, screen shake, hitstop, and ghost trails
 
-- Game feel: post-processing Bloom, screen shake, hitstop, ghost trails
+## Tech Stack
 
-## 🛠️ Tech Stack
+- Unity 2D (URP)
 
-- Engine: Unity 2D (URP)
+- C#
 
-- Language: C#
+- AI-assisted development with Claude and Cursor
 
-- AI Tools: Claude, Cursor
+## Development Approach
 
-- Origin: Originally prototyped in HTML5 Canvas, ported to Unity
+This project is built using AI-assisted development. Product direction, game design decisions, mechanic design, and testing are handled by me. AI tools are used as accelerators during code generation and debugging.
 
-## 🧠 Development Approach
+## Status
 
-Built using AI-assisted development. Product vision, game design, mechanic decisions, 
-and testing are owned by me; code generation is supported by AI tools.
+In active development. Unity project files will be added to the repository as the project progresses. Screenshots and gameplay footage will be added once the build stabilizes.
 
-## 📷 Screenshots
+## Author
 
-Coming soon
-
-## 👤 Author
-
-Mert Baran Yıldırım — MIS Student @ Yeditepe University  
-[LinkedIn](https://www.linkedin.com/in/mert-baran-yıldırım-7757383b6/)
+Mert Baran Yıldırım — Management Information Systems student at Yeditepe University.  
+LinkedIn: https://www.linkedin.com/in/mert-baran-yıldırım-7757383b6/
