@@ -1,40 +1,30 @@
-# CYBER DASH
+# Cyber Dash
 
-Cyberpunk-themed 2D top-down survival game built with Unity (URP), targeted at mobile platforms. Currently in active development.
+Unity 2D top-down survival prototype with a cyberpunk setting and mobile-focused gameplay. The project is in development.
 
-## Overview
+## Project focus
 
-Originally prototyped as an HTML5 Canvas project, CYBER DASH has been ported to Unity 2D with URP for mobile release. The game focuses on fast-paced movement, varied combat encounters, and arcade-style progression.
+- Dash movement and cooldown timing
+- Enemy and boss progression
+- Power-ups, combo flow, and gameplay feedback
+- UI flows, debugging, and iterative gameplay checks
 
-## Features
+## Technology
 
-- Dash-based movement system with fluid character control
+Unity 2D, URP, and C#.
 
-- Six distinct enemy types with unique behaviors
+## Preview and availability
 
-- Four-boss progression system across game phases
+[Watch the gameplay preview in my portfolio](https://mert-baran-portfolio.vercel.app/#projects).
 
-- Power-ups, chip currency, and a combo system
+This repository currently contains the project overview. The Unity source project is maintained locally, and no public downloadable demo is currently linked from the portfolio.
 
-- Game feel polish: post-processing bloom, screen shake, hitstop, and ghost trails
+## Development
 
-## Tech Stack
-
-- Unity 2D (URP)
-
-- C#
-
-- AI-assisted development with Claude and Cursor
-
-## Development Approach
-
-This project is built using AI-assisted development. Product direction, game design decisions, mechanic design, and testing are handled by me. AI tools are used as accelerators during code generation and debugging.
-
-## Status
-
-In active development. Unity project files will be added to the repository as the project progresses. Screenshots and gameplay footage will be added once the build stabilizes.
+I manage project direction, gameplay decisions, testing, and iteration. AI-assisted tools support development and debugging.
 
 ## Author
 
-Mert Baran Yıldırım — Management Information Systems student at Yeditepe University.  
-LinkedIn: https://www.linkedin.com/in/mert-baran-yıldırım-7757383b6/
+Mert Baran Yıldırım — senior Management Information Systems student at Yeditepe University.
+
+[Portfolio](https://mert-baran-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mert-baran-y%C4%B1ld%C4%B1r%C4%B1m-7757383b6/)
